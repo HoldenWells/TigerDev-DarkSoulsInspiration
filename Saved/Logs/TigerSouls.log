@@ -1,0 +1,1184 @@
+﻿Log file open, 09/25/18 18:40:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TigerSouls
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.348686
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.135s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UnrealEngine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.25-23.40.16:229][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.25-23.40.16:229][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.25-23.40.16:250][  0]LogHAL: Display: Platform has ~ 8 GB [8409350144 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.25-23.40.16:250][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.25-23.40.16:250][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.25-23.40.16:251][  0]LogInit: Computer: HOLDENPC
+[2018.09.25-23.40.16:251][  0]LogInit: User: Holden
+[2018.09.25-23.40.16:251][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.25-23.40.16:251][  0]LogInit: High frequency timer resolution =2.531251 MHz
+[2018.09.25-23.40.16:251][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2018.09.25-23.40.16:251][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.25-23.40.16:251][  0]LogMemory: Process Physical Memory: 99.88 MB used, 99.88 MB peak
+[2018.09.25-23.40.16:251][  0]LogMemory: Process Virtual Memory: 90.98 MB used, 90.98 MB peak
+[2018.09.25-23.40.16:251][  0]LogMemory: Physical Memory: 3142.97 MB used,  4876.81 MB free, 8019.78 MB total
+[2018.09.25-23.40.16:251][  0]LogMemory: Virtual Memory: 4640.16 MB used,  4876.81 MB free, 134217728.00 MB total
+[2018.09.25-23.40.16:274][  0]LogInit: Using OS detected language (en-US).
+[2018.09.25-23.40.16:274][  0]LogInit: Using OS detected locale (en-US).
+[2018.09.25-23.40.16:274][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.25-23.40.16:746][  0]LogStreaming: Display: Took  0.472s to InitEngineTextLocalization.
+[2018.09.25-23.40.16:746][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.25-23.40.16:778][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.25-23.40.16:778][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.25-23.40.17:036][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.25-23.40.17:036][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.25-23.40.17:105][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.09.25-23.40.17:105][  0]LogD3D11RHI:       4055/0/4009 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.25-23.40.17:118][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.09.25-23.40.17:118][  0]LogD3D11RHI:       128/0/4009 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.09.25-23.40.17:121][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.25-23.40.17:121][  0]LogD3D11RHI:       0/0/4009 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.25-23.40.17:121][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.25-23.40.17:185][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.25-23.40.17:185][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.09.25-23.40.17:185][  0]LogWindows: EnumDisplayDevices:
+[2018.09.25-23.40.17:185][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.09.25-23.40.17:186][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.09.25-23.40.17:186][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.09.25-23.40.17:187][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.25-23.40.17:187][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.09.25-23.40.17:187][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.25-23.40.17:187][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.25-23.40.17:187][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2018.09.25-23.40.17:232][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.25-23.40.17:251][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.25-23.40.17:254][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Intermediate/Shaders/WorkingDirectory/7248/).
+[2018.09.25-23.40.17:254][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bhold/AppData/Local/Temp/UnrealShaderWorkingDir/6D640EB7439A0DE124FBDF89A9031F5C/'.
+[2018.09.25-23.40.17:773][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.25-23.40.17:796][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.25-23.40.17:813][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.25-23.40.17:829][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.25-23.40.17:844][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.25-23.40.17:858][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.25-23.40.17:872][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.25-23.40.17:886][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.25-23.40.17:891][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.25-23.40.17:968][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-23.40.17:968][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-23.40.17:968][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-23.40.17:968][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-23.40.17:968][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-23.40.17:968][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-23.40.17:968][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-23.40.17:968][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-23.40.17:968][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-23.40.17:968][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-23.40.17:968][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-23.40.17:968][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-23.40.17:968][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-23.40.17:968][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-23.40.17:968][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-23.40.17:968][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-23.40.17:968][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-23.40.17:968][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-23.40.17:970][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.25-23.40.18:032][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.25-23.40.18:032][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.25-23.40.18:057][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.25-23.40.18:057][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.25-23.40.18:070][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.25-23.40.18:082][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.25-23.40.18:094][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.25-23.40.18:107][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.25-23.40.18:116][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.25-23.40.18:116][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.25-23.40.18:165][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.25-23.40.18:165][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.25-23.40.18:165][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.25-23.40.18:937][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.25-23.40.19:020][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/bhold/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.25-23.40.19:022][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bhold/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.25-23.40.19:022][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.25-23.40.19:022][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.25-23.40.19:022][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.25-23.40.19:022][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.25-23.40.19:038][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.25-23.40.19:051][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bhold/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.25-23.40.19:051][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.25-23.40.19:051][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.25-23.40.19:075][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.25-23.40.19:077][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.25-23.40.19:078][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.25-23.40.19:158][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.09.25-23.40.19:536][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.25-23.40.19:684][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.25-23.40.19:687][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.25-23.40.19:687][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.25-23.40.19:687][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.25-23.40.19:687][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.25-23.40.19:705][  0]LogNetVersion: TigerSouls 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2853298775)
+[2018.09.25-23.40.20:965][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.258113 seconds
+[2018.09.25-23.40.20:981][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.25-23.40.20:981][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.09.25-23.40.20:981][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.25-23.40.22:142][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.25-23.40.22:157][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.25-23.40.22:415][  0]SourceControl: Source control is disabled
+[2018.09.25-23.40.22:415][  0]SourceControl: Source control is disabled
+[2018.09.25-23.40.22:417][  0]SourceControl: Source control is disabled
+[2018.09.25-23.40.22:418][  0]SourceControl: Source control is disabled
+[2018.09.25-23.40.22:619][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.25-23.40.22:764][  0]LogOcInput: OculusInput pre-init called
+[2018.09.25-23.40.22:883][  0]LogEngine: Initializing Engine...
+[2018.09.25-23.40.22:884][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.25-23.40.22:886][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.25-23.40.22:886][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.25-23.40.22:886][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.25-23.40.22:886][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.25-23.40.23:134][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.25-23.40.23:149][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.25-23.40.23:174][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.25-23.40.23:228][  0]LogInit: FAudioDevice initialized.
+[2018.09.25-23.40.23:228][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.25-23.40.23:321][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/bhold/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.25-23.40.23:346][  0]LogInit: Texture streaming: Enabled
+[2018.09.25-23.40.23:374][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.25-23.40.23:394][  0]LogInit: Transaction tracking system initialized
+[2018.09.25-23.40.23:419][  0]BlueprintLog: New page: Editor Load
+[2018.09.25-23.40.23:487][  0]LocalizationService: Localization service is disabled
+[2018.09.25-23.40.23:756][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.25-23.40.23:756][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.25-23.40.23:756][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.25-23.40.23:756][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.25-23.40.23:756][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.25-23.40.23:756][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.25-23.40.23:756][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.25-23.40.23:797][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/' took 0.02s
+[2018.09.25-23.40.23:874][  0]SourceControl: Source control is disabled
+[2018.09.25-23.40.23:874][  0]Cmd: MAP LOAD FILE="C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.25-23.40.23:874][  0]LightingResults: New page: Lighting Build
+[2018.09.25-23.40.23:876][  0]MapCheck: New page: Map Check
+[2018.09.25-23.40.23:876][  0]LightingResults: New page: Lighting Build
+[2018.09.25-23.40.26:738][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.25-23.40.26:747][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.25-23.40.26:776][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.25-23.40.26:846][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.532ms to complete.
+[2018.09.25-23.40.26:846][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.973
+[2018.09.25-23.40.27:088][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-23.40.27:115][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-23.40.27:132][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-23.40.27:151][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-23.40.27:177][  0]LogCollectionManager: Loaded 0 collections in 0.002081 seconds
+[2018.09.25-23.40.27:236][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/Collections/' took 0.01s
+[2018.09.25-23.40.27:236][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/Developers/Holden/Collections/' took 0.01s
+[2018.09.25-23.40.27:236][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/Collections/' took 0.01s
+[2018.09.25-23.40.27:236][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.25-23.40.27:259][  0]LogContentBrowser: Native class hierarchy populated in 0.0214 seconds. Added 2572 classes and 603 folders.
+[2018.09.25-23.40.27:269][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.09.25-23.40.29:134][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.25-23.40.29:199][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.09.25-23.40.29:249][  0]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.25-23.40.29:254][  0]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.25-23.40.29:286][  0]LogSlate: Took 0.021954 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.25-23.40.29:550][  0]LogRenderer: Reallocating scene render targets to support 996x452 Format 10 NumSamples 1 (Frame:1).
+[2018.09.25-23.40.29:714][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.25-23.40.29:714][  0]LogLoad: (Engine Initialization) Total time: 15.35 seconds
+[2018.09.25-23.40.29:714][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.25-23.40.29:733][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.25-23.40.29:756][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.25-23.40.29:878][  0]LogSlate: Took 0.023027 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.25-23.40.30:124][  2]LogAssetRegistry: Asset discovery search completed in 10.9879 seconds
+[2018.09.25-23.40.30:126][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.25-23.40.30:126][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000072 seconds (updated 0 objects)
+[2018.09.25-23.40.30:746][ 36]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.25-23.40.32:452][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-23.40.32:974][137]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap96D49B434D279177D797FC96BE8FB180.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.25-23.40.34:320][137]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltDataDEC39DC2464BB5E600CA5687D5F50019.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.25-23.40.34:631][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.40.36:135][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.40.56:912][433]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-23.40.57:385][433]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap223310964C060C44BC6FA5A4AB8E6AA1.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.25-23.40.57:933][433]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData97CE4F124887DE9788947DBD716C841B.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.25-23.40.58:675][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.40.58:740][479]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.25-23.40.58:758][479]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.40.58:758][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.25-23.40.58:772][479]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 25, 2018, 1:40:58 PM)
+[2018.09.25-23.40.58:772][479]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.25-23.40.58:777][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004024s)
+[2018.09.25-23.40.58:777][479]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.25-23.40.58:777][479]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2018.09.25-23.40.58:777][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.005075s)
+[2018.09.25-23.40.58:804][479]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.25-23.40.58:819][479]LogInit: FAudioDevice initialized.
+[2018.09.25-23.40.58:891][479]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.25-23.40.58:899][479]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.09.25-18.40.58
+[2018.09.25-23.40.58:901][479]LogWorld: Bringing up level for play took: 0.004674
+[2018.09.25-23.40.58:927][479]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 10 classes and 0 folders.
+[2018.09.25-23.40.58:931][479]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.319
+[2018.09.25-23.40.58:931][479]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.41.00:440][564]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.41.00:441][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-23.41.00:491][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.25-23.41.00:492][564]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.41.00:566][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-23.41.00:591][565]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.09.25-23.41.01:168][598]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-23.41.01:479][598]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMapFA46857D42EBAA849A6E8591F0458E84.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.25-23.41.02:640][598]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltDataF4B86201446C7D8DB57C4E89BB410BF0.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.25-23.41.05:018][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.41.05:101][740]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.25-23.41.05:127][740]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.41.05:127][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.25-23.41.05:127][740]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 25, 2018, 1:41:05 PM)
+[2018.09.25-23.41.05:127][740]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.25-23.41.05:133][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005572s)
+[2018.09.25-23.41.05:134][740]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.25-23.41.05:134][740]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2018.09.25-23.41.05:134][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.006895s)
+[2018.09.25-23.41.05:176][740]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.25-23.41.05:198][740]LogInit: FAudioDevice initialized.
+[2018.09.25-23.41.05:236][740]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.25-23.41.05:239][740]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.09.25-18.41.05
+[2018.09.25-23.41.05:240][740]LogWorld: Bringing up level for play took: 0.001960
+[2018.09.25-23.41.05:254][740]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.004
+[2018.09.25-23.41.05:254][740]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.41.13:155][212]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.41.13:155][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-23.41.13:205][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.25-23.41.13:205][212]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.41.13:279][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-23.41.13:340][213]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.09.25-23.41.13:793][231]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-23.41.14:243][231]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMapA74F5D2B4B391D9BC1F86693252B5EA1.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.25-23.41.15:397][231]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData188806464869A80893E25DB647E75FB4.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.25-23.46.43:650][731]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor11)
+[2018.09.25-23.46.44:281][731]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-23.46.46:449][846]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.25-23.46.54:097][281]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.25-23.46.54:753][318]Cmd: SELECT NONE
+[2018.09.25-23.46.55:492][361]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-23.46.56:103][361]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMapC285A454463C9FF2D1D855A5BE1A027D.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.25-23.46.57:398][361]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData480D31014200DCF2CC702FA58042B072.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.25-23.47.27:040][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2018.09.25-23.47.29:638][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.47.36:688][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.47.42:770][960]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.25-23.47.46:004][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2018.09.25-23.47.46:897][106]Cmd: EDIT COPY
+[2018.09.25-23.47.47:137][120]Cmd: EDIT PASTE
+[2018.09.25-23.47.51:602][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.47.56:249][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.48.01:513][910]Cmd: EDIT COPY
+[2018.09.25-23.48.01:751][923]Cmd: EDIT PASTE
+[2018.09.25-23.48.08:649][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor12)
+[2018.09.25-23.48.11:761][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.48.20:530][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor13)
+[2018.09.25-23.48.21:924][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor12)
+[2018.09.25-23.48.23:090][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.48.26:293][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor13)
+[2018.09.25-23.48.29:460][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.48.31:897][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.48.34:212][794]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-23.48.34:615][794]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap0CA53294490A804FC1505E84D6F39FA7.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.25-23.48.35:933][794]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData6BCA2E4D407DA852C02124978B55D1B1.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.25-23.48.38:463][939]Cmd: SELECT NONE
+[2018.09.25-23.48.39:303][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2018.09.25-23.48.42:854][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.48.46:167][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.48.51:965][733]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-23.48.52:373][733]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap15DFA7CB4AD494DAA1065AA0FCD3F839.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.25-23.48.53:639][733]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData080D0B0D47CF4432878EA69933FB2F6F.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.25-23.48.53:954][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.48.54:025][745]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.25-23.48.54:044][745]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.48.54:045][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.25-23.48.54:045][745]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 25, 2018, 1:48:54 PM)
+[2018.09.25-23.48.54:045][745]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.25-23.48.54:049][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004028s)
+[2018.09.25-23.48.54:049][745]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.25-23.48.54:049][745]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2018.09.25-23.48.54:049][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.004994s)
+[2018.09.25-23.48.54:080][745]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.25-23.48.54:095][745]LogInit: FAudioDevice initialized.
+[2018.09.25-23.48.54:131][745]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.25-23.48.54:133][745]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.09.25-18.48.54
+[2018.09.25-23.48.54:133][745]LogWorld: Bringing up level for play took: 0.001620
+[2018.09.25-23.48.54:147][745]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.897
+[2018.09.25-23.48.54:148][745]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.48.56:258][870]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.48.56:258][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-23.48.56:308][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.25-23.48.56:309][870]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.48.56:378][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-23.48.56:430][871]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.09.25-23.48.58:520][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2018.09.25-23.49.09:383][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.49.11:678][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.49.14:085][872]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-23.49.14:561][872]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMapDA81FFEF441F52DB228AAB91A17A8714.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.25-23.49.15:290][872]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData39350D684BDBEE8DF24044887163373B.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.25-23.49.15:541][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.49.15:609][886]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.25-23.49.15:627][886]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.49.15:627][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.25-23.49.15:627][886]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 25, 2018, 1:49:15 PM)
+[2018.09.25-23.49.15:627][886]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.25-23.49.15:631][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003965s)
+[2018.09.25-23.49.15:632][886]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.25-23.49.15:632][886]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2018.09.25-23.49.15:632][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.004843s)
+[2018.09.25-23.49.15:661][886]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.25-23.49.15:674][886]LogInit: FAudioDevice initialized.
+[2018.09.25-23.49.15:708][886]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.25-23.49.15:714][886]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.09.25-18.49.15
+[2018.09.25-23.49.15:715][886]LogWorld: Bringing up level for play took: 0.004054
+[2018.09.25-23.49.15:732][886]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.482
+[2018.09.25-23.49.15:732][886]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.49.29:794][722]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.49.29:794][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-23.49.29:846][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.25-23.49.29:846][722]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.49.29:916][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-23.49.29:972][723]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.09.25-23.49.30:801][769]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-23.49.31:356][769]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap9F7D0DF64CCE1A4CC49484984CF2985E.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.25-23.49.32:372][769]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltDataD0C3383B420780EC9137AFB20C689FBF.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.25-23.51.49:511][265]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-23.51.49:979][265]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMapF34E52544EC797F5FFB4D886DE36929E.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.25-23.51.50:917][265]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData3856E6C446102F4671E71CA3CD11F3EE.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.25-23.52.15:467][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.52.15:516][731]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.25-23.52.15:548][731]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.52.15:549][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.25-23.52.15:549][731]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 25, 2018, 1:52:15 PM)
+[2018.09.25-23.52.15:549][731]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.25-23.52.15:557][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008334s)
+[2018.09.25-23.52.15:559][731]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.25-23.52.15:559][731]LogPlayLevel: PIE: World Init took: (0.001613s)
+[2018.09.25-23.52.15:559][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010228s)
+[2018.09.25-23.52.15:616][731]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.25-23.52.15:645][731]LogInit: FAudioDevice initialized.
+[2018.09.25-23.52.15:680][731]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.25-23.52.15:683][731]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.09.25-18.52.15
+[2018.09.25-23.52.15:684][731]LogWorld: Bringing up level for play took: 0.002015
+[2018.09.25-23.52.15:698][731]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.447
+[2018.09.25-23.52.15:698][731]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.53.38:628][687]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.53.38:629][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-23.53.38:677][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.25-23.53.38:677][687]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.53.38:763][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-23.53.38:824][688]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.09.25-23.53.39:296][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-23.53.39:786][711]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap2633B6504066AED4FF8AC69779CAF844.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.25-23.53.40:861][711]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData89F5796F4F5E1191775D148115CA90DE.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.25-23.53.53:920][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.54.13:984][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.54.38:020][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.54.41:748][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.54.46:364][444]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-23.54.46:823][444]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMapE84212B84DF7D4057646B1BFF9C4C689.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.25-23.54.47:559][444]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData7535A0EA4B6D799CE7D7498815908FAB.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.25-23.54.48:051][463]Cmd: SELECT NONE
+[2018.09.25-23.54.54:015][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.54.56:934][978]Cmd: DELETE
+[2018.09.25-23.54.56:934][978]Cmd: ACTOR DELETE
+[2018.09.25-23.54.56:940][978]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.25-23.54.57:001][978]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2018.09.25-23.54.57:555][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-23.54.57:917][ 10]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap6EA23D58475D904427E47EB0ED133496.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.25-23.54.59:147][ 10]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData4351ABAA4952A93F5D5D69900D01E893.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.25-23.55.04:763][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.56.23:763][ 40]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMapAA3F50C14BD3571FF6D3DB918A9288D8.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.25-23.56.24:832][ 40]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData0F2E10E6438B323E1BDC39A9B19234C1.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.25-23.56.25:181][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.56.25:230][ 59]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.25-23.56.25:249][ 59]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.56.25:249][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.25-23.56.25:249][ 59]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 25, 2018, 1:56:25 PM)
+[2018.09.25-23.56.25:249][ 59]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.25-23.56.25:253][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003903s)
+[2018.09.25-23.56.25:254][ 59]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.25-23.56.25:254][ 59]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2018.09.25-23.56.25:254][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.004991s)
+[2018.09.25-23.56.25:282][ 59]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.25-23.56.25:296][ 59]LogInit: FAudioDevice initialized.
+[2018.09.25-23.56.25:330][ 59]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.25-23.56.25:333][ 59]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.09.25-18.56.25
+[2018.09.25-23.56.25:333][ 59]LogWorld: Bringing up level for play took: 0.001650
+[2018.09.25-23.56.25:347][ 59]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.097
+[2018.09.25-23.56.25:347][ 59]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.56.28:188][228]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.56.28:189][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-23.56.28:235][228]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.25-23.56.28:235][228]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.25-23.56.28:314][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-23.56.28:352][229]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.09.25-23.56.33:785][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.56.53:442][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-23.57.30:426][681]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMapBE87C18E41193C9AC64D7E81C462BFB3.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.25-23.57.31:617][681]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData2DBBF3CB4A7B70AF138327833A722EA6.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.25-23.57.59:241][228]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2018.09.25-23.58.02:933][228]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 116 classes and 0 folders.
+[2018.09.25-23.58.04:602][228]LogSlate: Took 0.016001 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.26-00.00.47:256][687]LogSlate: Took 0.024014 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.26-00.01.56:267][491]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-00.01.56:866][491]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap542679484C81865FE432C08EB66701A3.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.26-00.01.58:117][491]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData7A1D74184D9C4CA9798951ABD77BE4A2.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.26-00.02.05:785][937]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.09.26-00.02.11:853][ 91]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterC40D2FDF42A2DBBCFBC57C96057D1CE4.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.02.14:334][203]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.05.22:121][337]LogEditorTransaction: Undo Add Node
+[2018.09.26-00.05.58:478][866]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter2A66EDF444967F5D2C07ECA9C694AA12.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.05.59:680][909]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.06.11:311][365]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter6CCEF70B4AA11FD1467CA18B8368476F.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.06.11:955][385]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.06.30:760][196]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterD0F13DA54B9C36B8D947F99F7D1C2328.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.06.53:898][147]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterD99BE02F41ADE79A3E2CD7A5BEDBE5A0.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.07.07:424][691]LogSlate: Took 0.005709 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.09.26-00.07.13:982][979]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.07.18:169][138]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter1FA81E5948A3C4A5ED08CDA43EA5D0F1.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.07.19:700][204]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.08.37:346][457]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.08.39:984][542]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterB481AB85490E59ACDAF76A9F7B3FC352.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.10.19:129][770]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.10.31:336][291]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterA6BCCA4F41B114B089C0BDBF55A1567F.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.10.44:288][844]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterA2E454A646088F754A508C927177F8C0.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.11.09:488][  2]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.11.12:646][131]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter3A5EE23048B6BA8C10B2D2B9125EE15D.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.11.13:538][169]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.11.52:394][846]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter5DD5B9CC4FD3C3F9B77085BEBFDF243B.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.11.54:651][954]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter7CB40BFF42A6AFD48C9F20BAE87987F1.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.11.55:339][991]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.13.21:324][ 39]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterC8ACC391473082C8004350B5C2CD4FE1.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.13.22:610][ 93]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.13.51:356][446]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterCBA199DC4C75898F304422B6A2D9C0BD.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.14.16:853][714]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterFEA5650840E7189D232ECDB19FC337A2.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.14.38:801][770]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-00.14.39:293][770]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap6FF5701348B9277DCA4D22ADBEA8BEE7.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.26-00.14.40:331][770]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltDataEB62F4FD4541114C38E25DA135965B9B.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.26-00.15.20:970][907]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.26-00.15.21:178][908]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TigerSouls
+[2018.09.26-00.15.21:178][908]LogTemp: CWD: D:\Epic Games\UnrealEngine\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.26-00.15.21:178][908]LogTemp: Initial Dir: D:\Epic Games\UnrealEngine\UE_4.20
+[2018.09.26-00.15.21:178][908]LogTemp: Env CWD: D:\Epic Games\UnrealEngine\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.26-00.15.21:178][908]LogTemp: BranchPath = HOLDENPC/D/Epic Games/UnrealEngine/UE_4.20/Engine/Binaries --- GameBranchPath = HOLDENPC/D/Epic Games/UnrealEngine/UE_4.20/Engine/Binaries
+[2018.09.26-00.15.21:178][908]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\bhold\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.26-00.17.28:717][924]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.26-00.17.28:728][924]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.26-00.17.30:073][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-00.17.30:358][ 53]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap895CB8AC41E2CA470E129796A7C71214.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.26-00.17.31:474][ 53]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData0857023A429413D75E07B686D4385378.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.26-00.17.44:208][613]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter965621054539A866E2C57C8ECEC0E814.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.17.54:781][168]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.19.51:827][498]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterD0A6F359425E37D14AA895AA31B9D090.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.19.53:820][582]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter2D73FCB749AF12551179948860F904FB.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.19.54:464][614]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.19.55:297][621]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter511D58D0483DCE985E092E85538EBA31.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.20.05:986][ 97]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter233D92C3406F12AF315FB794ECB468AF.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.20.07:890][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-00.20.08:419][239]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap1589F7E642776A31F681F19128C7EF9E.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.26-00.20.09:175][239]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData402CD5EC486381556E6DE3B091A549A3.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.26-00.20.10:004][293]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-00.20.10:027][293]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.20.10:028][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-00.20.10:028][293]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 25, 2018, 2:20:10 PM)
+[2018.09.26-00.20.10:028][293]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.26-00.20.10:032][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004049s)
+[2018.09.26-00.20.10:032][293]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.26-00.20.10:033][293]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2018.09.26-00.20.10:033][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.005039s)
+[2018.09.26-00.20.10:066][293]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-00.20.10:080][293]LogInit: FAudioDevice initialized.
+[2018.09.26-00.20.10:116][293]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.26-00.20.10:119][293]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.25-19.20.10
+[2018.09.26-00.20.10:119][293]LogWorld: Bringing up level for play took: 0.001621
+[2018.09.26-00.20.10:132][293]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.882
+[2018.09.26-00.20.10:133][293]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.20.37:529][ 30]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.20.37:529][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-00.20.37:578][ 30]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-00.20.37:579][ 30]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.20.37:648][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-00.20.37:724][ 31]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.09.26-00.20.38:981][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-00.20.42:783][253]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterA9CD24F84370EBC40827998F110650A4.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.20.43:830][293]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.20.44:748][309]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterE04A93514215436065CE089F485F8A7B.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.20.46:600][454]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-00.20.46:867][454]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMapE918845C437B60BE8F029CA3E6066812.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.26-00.20.47:871][454]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltDataC558BA5B48A7281B2C192B9C6D850DB6.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.26-00.20.48:245][484]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-00.20.48:268][484]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.20.48:268][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-00.20.48:268][484]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 25, 2018, 2:20:48 PM)
+[2018.09.26-00.20.48:268][484]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.26-00.20.48:272][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003912s)
+[2018.09.26-00.20.48:272][484]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.26-00.20.48:272][484]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2018.09.26-00.20.48:272][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.004804s)
+[2018.09.26-00.20.48:305][484]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-00.20.48:317][484]LogInit: FAudioDevice initialized.
+[2018.09.26-00.20.48:349][484]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.26-00.20.48:352][484]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.25-19.20.48
+[2018.09.26-00.20.48:352][484]LogWorld: Bringing up level for play took: 0.001515
+[2018.09.26-00.20.48:365][484]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.885
+[2018.09.26-00.20.48:366][484]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.21.42:954][354]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.21.42:954][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-00.21.42:991][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-00.21.42:991][354]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.21.43:025][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-00.21.43:080][355]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-00.21.43:086][355]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.09.26-00.21.44:683][355]LogSlate: Took 1.591217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.09.26-00.22.03:714][452]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterFDB0CA6C4A6A49076A82AFAD181FFAB5.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.22.04:649][507]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.22.05:191][513]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter34EE5D17402C564BCA28118E965601BF.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.22.06:745][553]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter6C35CA414FB8CD88201EE6B5FAB99A51.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.22.08:873][680]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-00.22.08:892][680]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.22.08:892][680]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-00.22.08:892][680]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 25, 2018, 2:22:08 PM)
+[2018.09.26-00.22.08:892][680]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.26-00.22.08:896][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003363s)
+[2018.09.26-00.22.08:896][680]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.26-00.22.08:896][680]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2018.09.26-00.22.08:896][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.004174s)
+[2018.09.26-00.22.08:926][680]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-00.22.08:939][680]LogInit: FAudioDevice initialized.
+[2018.09.26-00.22.08:971][680]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.26-00.22.08:974][680]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.09.25-19.22.08
+[2018.09.26-00.22.08:974][680]LogWorld: Bringing up level for play took: 0.001625
+[2018.09.26-00.22.08:987][680]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.263
+[2018.09.26-00.22.08:987][680]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.22.31:562][ 33]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.22.31:563][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-00.22.31:600][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-00.22.31:600][ 33]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.22.31:634][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-00.22.31:688][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.09.26-00.22.32:089][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-00.22.32:333][ 55]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap9CC6C6324DBA7E988FCF2FA0CED88AFF.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.26-00.22.32:703][ 55]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData807657134F832529CE75489F6C55AE56.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.26-00.22.36:865][289]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-00.22.36:885][289]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.22.36:885][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-00.22.36:885][289]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 25, 2018, 2:22:36 PM)
+[2018.09.26-00.22.36:885][289]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.26-00.22.36:889][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003395s)
+[2018.09.26-00.22.36:889][289]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.26-00.22.36:890][289]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2018.09.26-00.22.36:890][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.004362s)
+[2018.09.26-00.22.36:918][289]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-00.22.36:932][289]LogInit: FAudioDevice initialized.
+[2018.09.26-00.22.36:964][289]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.26-00.22.36:966][289]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.09.25-19.22.36
+[2018.09.26-00.22.36:967][289]LogWorld: Bringing up level for play took: 0.001341
+[2018.09.26-00.22.36:980][289]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.269
+[2018.09.26-00.22.36:981][289]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.23.02:076][793]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.23.02:076][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-00.23.02:113][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-00.23.02:113][793]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.23.02:149][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-00.23.02:184][795]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.09.26-00.23.04:242][879]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-00.23.21:050][836]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter529D4AAA4612AD4B180CDBAF20C7759A.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.23.28:407][245]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterCFE16D644742755F1E40A1857B0D6D81.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.23.29:364][300]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.23.34:912][602]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter9D12F6BF41C68506FEBFC281C3EA4E54.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.23.42:002][ 22]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterE51B145C46CC85004D521A9A47BEBA19.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.23.53:746][718]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter67B6E81F42B8D4E5A90A8EA15ECD0A79.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.25.29:752][163]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-00.25.30:058][163]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMapA5909B9C402338A15ED222B72E6FA273.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.26-00.25.30:499][163]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltDataA9D171BC48140906B1572EAB058D75B0.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.26-00.25.30:884][177]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-00.25.30:928][177]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.25.30:928][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-00.25.30:928][177]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 25, 2018, 2:25:30 PM)
+[2018.09.26-00.25.30:928][177]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.26-00.25.30:934][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005986s)
+[2018.09.26-00.25.30:935][177]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.26-00.25.30:936][177]LogPlayLevel: PIE: World Init took: (0.001190s)
+[2018.09.26-00.25.30:936][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.007432s)
+[2018.09.26-00.25.30:977][177]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-00.25.30:992][177]LogInit: FAudioDevice initialized.
+[2018.09.26-00.25.31:027][177]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.26-00.25.31:029][177]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.09.25-19.25.31
+[2018.09.26-00.25.31:029][177]LogWorld: Bringing up level for play took: 0.001601
+[2018.09.26-00.25.31:044][177]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.207
+[2018.09.26-00.25.31:044][177]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.26.05:053][ 72]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.26.05:053][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-00.26.05:108][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-00.26.05:108][ 72]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.26.05:137][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-00.26.05:192][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.09.26-00.26.05:633][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-00.26.05:916][ 92]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap93E5C9434D13C84100C498B273C0C176.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.26-00.26.06:343][ 92]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData51AEE3BE45EBC3B8D89AA198F0FD142C.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.26-00.26.07:212][133]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-00.26.07:256][133]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.26.07:257][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-00.26.07:257][133]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 25, 2018, 2:26:07 PM)
+[2018.09.26-00.26.07:257][133]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.26-00.26.07:262][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005277s)
+[2018.09.26-00.26.07:263][133]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.26-00.26.07:263][133]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2018.09.26-00.26.07:263][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.006201s)
+[2018.09.26-00.26.07:303][133]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-00.26.07:316][133]LogInit: FAudioDevice initialized.
+[2018.09.26-00.26.07:350][133]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.26-00.26.07:353][133]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.09.25-19.26.07
+[2018.09.26-00.26.07:354][133]LogWorld: Bringing up level for play took: 0.003296
+[2018.09.26-00.26.07:367][133]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.118
+[2018.09.26-00.26.07:367][133]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.26.23:132][ 19]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.26.23:133][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-00.26.23:187][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-00.26.23:188][ 19]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.26.23:228][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-00.26.23:286][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.09.26-00.26.26:763][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.26-00.26.29:041][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-00.26.47:294][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-00.26.47:606][ 95]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap53B42C5E4FAA7A67B5FDDCAF4D7FBFCE.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.26-00.26.48:037][ 95]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData71BF56254CC954CF8D29C5A1B054690D.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.26-00.26.51:686][141]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterB5C43271499CC9F99F2B8F9A9EA64198.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.27.23:439][181]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.27.30:016][369]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter1DFCDE324A81F0290009F68461E02437.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.28.36:527][601]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterB3E453CC4BFC97FD710F50B368E80458.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.28.37:816][637]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.28.39:031][663]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterAF830C4B410FE08BC74CD185211F1174.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.28.48:421][972]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterFA690C6F4261BA17D305AE8972EE79C5.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.29.46:306][785]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterA304004D469EA1C091C035A9F4A42B52.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.29.47:075][807]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.29.52:003][948]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterEC7AAB7B4A2AFF6B051632BC58B25C7A.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.30.46:962][454]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog
+[2018.09.26-00.30.46:962][454]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog) using current/default (AnimCompress_BitwiseCompressOnly_38) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.26-00.30.58:196][782]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterBEFF324A483165D9FED395A9DC7C9F25.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.31.00:950][862]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterC15CB74245E49BD0BA2ED3A32851E724.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.31.01:830][890]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.31.54:294][471]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterA8D9D7454E5CF5A6AD1726BF3450133D.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.31.55:059][491]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.31.55:895][502]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter4630CE5E44FFEFB1338F53BA9DC42CFC.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.31.57:136][534]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap6EEE2E8D45D4E2231EFA18B762D3F845.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.26-00.31.57:581][534]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltDataD78910024A7B7A7B72D7FFB6B5D2CE93.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.26-00.31.58:092][557]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.26-00.31.58:132][557]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.31.58:132][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.26-00.31.58:132][557]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 25, 2018, 2:31:58 PM)
+[2018.09.26-00.31.58:132][557]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.26-00.31.58:139][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006374s)
+[2018.09.26-00.31.58:139][557]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.26-00.31.58:140][557]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2018.09.26-00.31.58:140][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.007689s)
+[2018.09.26-00.31.58:182][557]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.26-00.31.58:198][557]LogInit: FAudioDevice initialized.
+[2018.09.26-00.31.58:229][557]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.26-00.31.58:231][557]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.09.25-19.31.58
+[2018.09.26-00.31.58:231][557]LogWorld: Bringing up level for play took: 0.001462
+[2018.09.26-00.31.58:245][557]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.996
+[2018.09.26-00.31.58:246][557]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.32.36:768][699]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.32.36:768][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-00.32.36:811][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.26-00.32.36:812][699]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.26-00.32.36:850][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.26-00.32.36:876][700]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.09.26-00.32.38:571][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-00.33.33:029][575]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter951E83CB41248BBA43A62CA5AE6E2F5C.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.33.54:202][268]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter34074B7B44322E967CE04CBE549A8218.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.33.57:274][366]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterD49B0FBC4B54F0358672C4B73634EFC9.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.34.12:689][879]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter0C711A574B45DA7A569D94A8BD45746E.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.34.28:404][369]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterE25BA5BC45BD05FF502785984EB561C6.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.34.31:320][462]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterF680765E47EDD9BDE37827AB2C447B86.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.34.34:981][582]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacterB7C556764E8B23209D984CAEC5BA35C6.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.34.48:097][ 30]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonCharacter8163A0CA461A8BA1A59EC78645F0ABF7.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.26-00.34.49:277][ 67]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.09.26-00.34.51:434][119]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMapA679AC3F4E37B286E81A0C8C50834F7D.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.26-00.34.51:889][119]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData354A527F4F7EA1ECA41A7E8F5600B815.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.26-00.35.02:799][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-00.35.05:805][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-00.35.07:800][989]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-00.35.08:077][989]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap1204618D48723AFB09CE1488AE74F33E.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.26-00.35.08:459][989]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltDataD12013A741DEF82649FB1CA4C828EE35.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.26-00.35.50:569][383]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor17)
+[2018.09.26-00.35.50:651][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-00.35.52:457][457]Cmd: SELECT NONE
+[2018.09.26-00.44.29:416][513]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-00.44.29:760][513]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMapAE1D93734ACDFCA27D9B80A5541D86B4.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.26-00.44.30:191][513]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData95766DF94A18F87101E7B484476C878D.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.26-00.44.59:484][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.26-00.47.04:999][519]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-00.47.05:329][519]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap69C7562243B653F721E938A3DEDEF349.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.26-00.47.05:761][519]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData3DEE95004502D61636FE349FA429E2AD.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.26-01.01.35:640][374]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.26-01.01.35:909][374]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap486819924927545D37C7B19DEC0EF8BB.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.26-01.01.36:302][374]LogSavePackage: Moving 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Saved/ThirdPersonExampleMap_BuiltData028EFCD94FAACB12459150816390FBD3.tmp' to 'C:/Users/bhold/OneDrive/Documents/Unreal Projects/TigerSouls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.26-01.01.40:549][842]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2018.09.26-01.01.40:641][842]LogSlate: Window 'TigerSouls - Unreal Editor' being destroyed
+[2018.09.26-01.01.40:643][842]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.26-01.01.40:898][843]Cmd: QUIT_EDITOR
+[2018.09.26-01.01.40:951][843]LogExit: Preparing to exit.
+[2018.09.26-01.01.41:412][843]LogExit: Editor shut down
+[2018.09.26-01.01.41:412][843]LogExit: Transaction tracking system shut down
+[2018.09.26-01.01.42:077][843]LogExit: Object subsystem successfully closed.
+[2018.09.26-01.01.42:148][843]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.26-01.01.42:157][843]LogD3D11RHI: Shutdown
+[2018.09.26-01.01.42:157][843]LogD3D11RHI: CleanupD3DDevice
+[2018.09.26-01.01.42:160][843]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.26-01.01.42:174][843]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (618)
+[2018.09.26-01.01.42:174][843]LogModuleManager: Shutting down and abandoning module BlueprintGraph (616)
+[2018.09.26-01.01.42:174][843]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2018.09.26-01.01.42:174][843]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2018.09.26-01.01.42:174][843]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.09.26-01.01.42:174][843]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.09.26-01.01.42:174][843]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.09.26-01.01.42:177][843]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.09.26-01.01.42:177][843]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.09.26-01.01.42:177][843]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.09.26-01.01.42:177][843]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.09.26-01.01.42:177][843]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.09.26-01.01.42:177][843]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.09.26-01.01.42:177][843]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.09.26-01.01.42:177][843]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.09.26-01.01.42:177][843]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.09.26-01.01.42:177][843]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.09.26-01.01.42:177][843]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.09.26-01.01.42:177][843]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.09.26-01.01.42:178][843]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.09.26-01.01.42:179][843]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.09.26-01.01.42:179][843]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.09.26-01.01.42:179][843]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.09.26-01.01.42:179][843]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.09.26-01.01.42:179][843]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.09.26-01.01.42:179][843]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.09.26-01.01.42:329][843]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.09.26-01.01.42:330][843]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.09.26-01.01.42:330][843]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.09.26-01.01.42:330][843]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.09.26-01.01.42:330][843]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.09.26-01.01.42:330][843]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.09.26-01.01.42:330][843]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.09.26-01.01.42:330][843]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.09.26-01.01.42:330][843]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.09.26-01.01.42:330][843]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.09.26-01.01.42:330][843]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.09.26-01.01.42:330][843]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.09.26-01.01.42:330][843]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.09.26-01.01.42:330][843]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.09.26-01.01.42:330][843]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.09.26-01.01.42:330][843]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.09.26-01.01.42:330][843]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.09.26-01.01.42:330][843]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.09.26-01.01.42:331][843]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.09.26-01.01.42:331][843]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.09.26-01.01.42:331][843]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.09.26-01.01.42:331][843]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.09.26-01.01.42:394][843]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.09.26-01.01.42:394][843]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.09.26-01.01.42:394][843]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.09.26-01.01.42:394][843]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.09.26-01.01.42:394][843]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.09.26-01.01.42:394][843]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.09.26-01.01.42:394][843]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.09.26-01.01.42:395][843]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.09.26-01.01.42:395][843]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.09.26-01.01.42:395][843]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.09.26-01.01.42:404][843]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.09.26-01.01.42:404][843]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.09.26-01.01.42:404][843]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.09.26-01.01.42:404][843]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.09.26-01.01.42:405][843]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.09.26-01.01.42:405][843]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.09.26-01.01.42:405][843]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.09.26-01.01.42:405][843]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.09.26-01.01.42:405][843]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.09.26-01.01.42:405][843]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.09.26-01.01.42:405][843]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.09.26-01.01.42:405][843]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.09.26-01.01.42:405][843]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.09.26-01.01.42:405][843]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.09.26-01.01.42:405][843]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.09.26-01.01.42:405][843]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.09.26-01.01.42:405][843]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.09.26-01.01.42:405][843]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.09.26-01.01.42:405][843]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.09.26-01.01.42:405][843]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.09.26-01.01.42:405][843]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.09.26-01.01.42:405][843]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.09.26-01.01.42:564][843]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.09.26-01.01.42:564][843]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.09.26-01.01.42:564][843]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.09.26-01.01.42:564][843]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.09.26-01.01.42:564][843]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.09.26-01.01.42:564][843]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.09.26-01.01.42:564][843]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.09.26-01.01.42:564][843]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.09.26-01.01.42:564][843]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.09.26-01.01.42:564][843]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.09.26-01.01.42:564][843]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.09.26-01.01.42:564][843]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.09.26-01.01.42:564][843]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.09.26-01.01.42:564][843]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.09.26-01.01.42:564][843]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.09.26-01.01.42:564][843]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.09.26-01.01.42:564][843]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.09.26-01.01.42:564][843]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.09.26-01.01.42:570][843]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.09.26-01.01.42:570][843]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.09.26-01.01.42:570][843]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.09.26-01.01.42:570][843]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.09.26-01.01.42:570][843]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.09.26-01.01.42:570][843]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.09.26-01.01.42:570][843]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.09.26-01.01.42:570][843]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.09.26-01.01.42:570][843]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.09.26-01.01.42:570][843]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.09.26-01.01.42:570][843]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.09.26-01.01.42:570][843]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.09.26-01.01.42:570][843]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.09.26-01.01.42:570][843]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.09.26-01.01.42:570][843]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.09.26-01.01.42:571][843]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.09.26-01.01.42:673][843]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.09.26-01.01.42:773][843]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.09.26-01.01.42:773][843]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.09.26-01.01.42:773][843]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.09.26-01.01.42:773][843]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.09.26-01.01.42:773][843]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.09.26-01.01.42:773][843]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.09.26-01.01.42:773][843]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.09.26-01.01.42:774][843]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.09.26-01.01.42:774][843]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.09.26-01.01.42:775][843]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.09.26-01.01.42:775][843]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.09.26-01.01.43:125][843]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.09.26-01.01.43:131][843]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.09.26-01.01.43:131][843]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.09.26-01.01.43:131][843]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.09.26-01.01.43:131][843]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.09.26-01.01.43:131][843]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.09.26-01.01.43:131][843]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.09.26-01.01.43:134][843]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.09.26-01.01.43:141][843]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.09.26-01.01.43:141][843]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.09.26-01.01.43:141][843]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.09.26-01.01.43:141][843]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.09.26-01.01.43:141][843]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.09.26-01.01.43:142][843]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.09.26-01.01.43:142][843]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.09.26-01.01.43:142][843]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.09.26-01.01.43:142][843]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.09.26-01.01.43:142][843]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.09.26-01.01.43:142][843]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.09.26-01.01.43:142][843]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.09.26-01.01.43:142][843]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.09.26-01.01.43:142][843]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.09.26-01.01.43:142][843]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.09.26-01.01.43:142][843]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.09.26-01.01.43:143][843]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.09.26-01.01.43:143][843]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.09.26-01.01.43:143][843]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.09.26-01.01.43:143][843]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.09.26-01.01.43:149][843]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.09.26-01.01.43:149][843]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.09.26-01.01.43:149][843]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.09.26-01.01.43:149][843]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.09.26-01.01.43:149][843]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.09.26-01.01.43:149][843]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.09.26-01.01.43:149][843]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.09.26-01.01.43:149][843]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.09.26-01.01.43:150][843]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.09.26-01.01.43:150][843]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.09.26-01.01.43:150][843]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.09.26-01.01.43:150][843]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.09.26-01.01.43:150][843]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.09.26-01.01.43:150][843]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.09.26-01.01.43:150][843]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.09.26-01.01.43:150][843]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.09.26-01.01.43:150][843]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.09.26-01.01.43:152][843]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.09.26-01.01.43:204][843]LogDerivedDataCache: Shutdown
+[2018.09.26-01.01.43:204][843]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.09.26-01.01.43:205][843]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.09.26-01.01.43:205][843]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.09.26-01.01.43:205][843]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.09.26-01.01.43:205][843]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.09.26-01.01.43:205][843]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.09.26-01.01.43:206][843]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.09.26-01.01.43:206][843]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.09.26-01.01.43:206][843]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.09.26-01.01.43:206][843]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.09.26-01.01.43:206][843]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.09.26-01.01.43:206][843]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.09.26-01.01.43:207][843]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.09.26-01.01.43:207][843]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.09.26-01.01.43:207][843]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.09.26-01.01.43:207][843]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.09.26-01.01.43:207][843]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.09.26-01.01.43:207][843]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.09.26-01.01.43:207][843]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.09.26-01.01.43:207][843]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.09.26-01.01.43:207][843]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.09.26-01.01.43:208][843]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.09.26-01.01.43:208][843]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.09.26-01.01.43:220][843]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.09.26-01.01.43:221][843]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.09.26-01.01.43:233][843]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.09.26-01.01.43:233][843]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.09.26-01.01.43:303][843]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.09.26-01.01.43:303][843]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.09.26-01.01.43:303][843]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.09.26-01.01.43:303][843]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.09.26-01.01.43:303][843]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.09.26-01.01.43:304][843]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.09.26-01.01.43:304][843]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.09.26-01.01.43:304][843]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.09.26-01.01.43:304][843]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.09.26-01.01.43:304][843]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.09.26-01.01.43:304][843]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.09.26-01.01.43:304][843]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.09.26-01.01.43:304][843]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.09.26-01.01.43:304][843]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.09.26-01.01.43:304][843]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.09.26-01.01.43:304][843]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.09.26-01.01.43:304][843]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.09.26-01.01.43:304][843]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.09.26-01.01.43:305][843]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.09.26-01.01.43:305][843]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.09.26-01.01.43:326][843]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.09.26-01.01.43:326][843]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.09.26-01.01.43:326][843]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6B2F679F-481F-424F-9B42-1EAE272AD7C2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=c2adf15c48a36a05bee324a04a72590a%7C57669c29f68240b9b2e1399e4dc0b962%7Cb42a18bc-17cc-46c2-98bf-75b6afa36d2c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.26-01.01.43:351][843]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.09.26-01.01.43:353][843]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.09.26-01.01.43:353][843]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.09.26-01.01.43:353][843]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.09.26-01.01.43:353][843]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.09.26-01.01.43:353][843]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.09.26-01.01.43:353][843]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.09.26-01.01.43:353][843]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.09.26-01.01.43:353][843]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.09.26-01.01.43:353][843]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.09.26-01.01.43:353][843]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.26-01.01.43:353][843]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.09.26-01.01.43:353][843]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.26-01.01.43:353][843]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.26-01.01.43:354][843]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.26-01.01.43:354][843]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.26-01.01.43:354][843]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.26-01.01.43:354][843]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.26-01.01.43:354][843]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.26-01.01.43:356][843]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.26-01.01.43:356][843]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.26-01.01.43:356][843]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.26-01.01.43:356][843]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.26-01.01.43:356][843]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.26-01.01.43:356][843]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.26-01.01.43:356][843]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.26-01.01.43:356][843]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.26-01.01.43:356][843]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.26-01.01.43:356][843]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.26-01.01.43:356][843]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.26-01.01.43:364][843]LogExit: Exiting.
+[2018.09.26-01.01.43:392][843]Log file closed, 09/25/18 20:01:43
